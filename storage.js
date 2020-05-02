@@ -1,3 +1,7 @@
+if(!window) {
+    throw new Error("storage works only in browser that support local and Sesssion Storage.");
+}
+
 /**
  * 
  * @param {Object} config 
