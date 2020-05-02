@@ -1,0 +1,19 @@
+{
+  "name": "storage",
+  "version": "1.0.0",
+  "description": "A Wrapper on JavaScript local and session storage.",
+  "main": "storage.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Witbier/storage.git"
+  },
+  "author": "Witbier",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Witbier/storage/issues"
+  },
+  "homepage": "https://github.com/Witbier/storage#readme"
+}
